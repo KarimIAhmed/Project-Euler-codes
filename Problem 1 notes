@@ -1,0 +1,7 @@
+"If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3, 5, 6 and 9. The sum of these multiples is 23.
+Find the sum of all the multiples of 3 or 5 below 1000."
+
+update 1:
+My first instinct would be to make 2 arrays that finds the multiples for 3 and 5, then adding the numbers inside both these arrays, and 
+finally adding the 2 numbers to get the solution. However, this does sound like too much code, and I'm thinking of finding an easier way
+to do this.
