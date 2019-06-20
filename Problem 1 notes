@@ -5,3 +5,7 @@ update 1:
 My first instinct would be to make 2 arrays that finds the multiples for 3 and 5, then adding the numbers inside both these arrays, and 
 finally adding the 2 numbers to get the solution. However, this does sound like too much code, and I'm thinking of finding an easier way
 to do this.
+
+update 2: 
+Ya I realized I can just set the condition in the parameter for one array to satisfy the division both 3 and 5,instead of making 2 
+seperate arrays. I feel so smart.
